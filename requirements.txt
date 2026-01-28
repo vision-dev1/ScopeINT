@@ -4,3 +4,4 @@ requests
 cryptography
 rich
 colorama
+fpdf2
