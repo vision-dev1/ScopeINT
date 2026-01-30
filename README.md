@@ -71,6 +71,12 @@ Scale: **0–100**
 - **Medium (31-70)**: Common misconfigurations or relatively young domains.
 - **High (71-100)**: Critical security gaps, new domains, or expired SSL.
 
+## 📄 License
+
+This project is for **educational and research purposes only**. 
+
+**MIT License** - See [LICENSE](LICENSE) file for details.
+
 ## 🔗 Author
 VISION KC
 [GITHUB](https://github.com/vision-dev1)
