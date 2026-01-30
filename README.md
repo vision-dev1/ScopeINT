@@ -68,4 +68,6 @@ Scale: **0–100**
 - **High (71-100)**: Critical security gaps, new domains, or expired SSL.
 
 ## 🔗 Author
-**GitHub**: [vision-dev1](https://github.com/vision-dev1)
+VISION KC
+[GITHUB](https://github.com/vision-dev1)
+[WEBSITE](https://visionkc.com.np)
