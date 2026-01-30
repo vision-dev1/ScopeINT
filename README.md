@@ -39,12 +39,17 @@ ScopeINT/
 
 ## 📦 Installation
 1. Clone the repository.
-2. Create a virtual environment:
+   ```bash
+   git clone https://github.com/vision-dev1/ScopeINT
+2. Choose Directory
+  ```bash
+    cd ScopeINT
+3. Create a virtual environment:
    ```bash
    python3 -m venv venv
    source venv/bin/activate
    ```
-3. Install dependencies:
+4. Install dependencies:
    ```bash
    pip install -r requirements.txt
    ```
