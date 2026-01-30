@@ -41,10 +41,7 @@ ScopeINT/
 1. Clone the repository.
    ```bash
    git clone https://github.com/vision-dev1/ScopeINT
-2. Choose Directory
-  ```bash
-    cd ScopeINT
-
+   
 3. Create a virtual environment:
    ```bash
    python3 -m venv venv
