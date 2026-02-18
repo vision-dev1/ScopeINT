@@ -78,6 +78,8 @@ This project is for **educational and research purposes only**.
 **MIT License** - See [LICENSE](LICENSE) file for details.
 
 ## 🔗 Author
-VISION KC
-[GITHUB](https://github.com/vision-dev1)
-[WEBSITE](https://visionkc.com.np)
+VISION KC<br>
+[Github](https://github.com/vision-dev1)<br>
+[Portfolio](https://visionkc.com.np)
+
+---
